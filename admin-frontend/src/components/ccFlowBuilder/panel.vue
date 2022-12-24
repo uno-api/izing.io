@@ -125,7 +125,7 @@ import FlowNodeForm from './node_form'
 import { merge, cloneDeep } from 'lodash'
 import './index.css'
 
-import { UpdateChatFlow } from '../../service/chatFlow'
+import { UpdateChatFlow } from 'src/service/chatFlow'
 
 export default {
   data () {
