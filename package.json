@@ -1,19 +1,19 @@
 {
-  "name": "izing.io",
+  "name": "MultiChat",
   "version": "1.9.0",
   "description": "Bot Multiatendimento, multicanais e multiempresas.",
   "main": "index.js",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:ldurans/izing.io.git"
+    "url": "git@github.com:LuisFlavio33/izing.io.git"
   },
   "scripts": {
     "release": "semantic-release --no-ci",
     "husk": "husky install"
   },
-  "author": "lumardyelson@gmail.com",
-  "license": "@izing.io",
+  "author": "conectivassis@gmail.com",
+  "license": "@conectivax.uk",
   "dependencies": {},
   "devDependencies": {
     "@commitlint/cli": "^16.0.1",
